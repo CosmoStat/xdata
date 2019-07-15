@@ -1,9 +1,9 @@
 # xdata
 
-a library for photon matter interactions
+a library for photon matter interactions.
 
 All information about this library and its use can be found in xdata/doc/manual.pdf.
 
-A toy example to test code can be found in xdata/tryxdata.c and can be compiled with make tryxdata
+A toy example to test code can be found in xdata/tryxdata.c and can be compiled with "make tryxdata"
 
-Interesting examples can be found in xdata/example/
+Interesting examples can be found in xdata/example/ and each of it can be compiled via "make test" within the corresponding directory.
